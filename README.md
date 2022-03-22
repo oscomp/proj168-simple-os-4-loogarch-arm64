@@ -37,7 +37,7 @@ Loogarch/ARM64平台上的教学操作系统
 
 ### 特征
 
-* ARM
+* LoongArc或ARM64或MIPS或x86或riscv或...
 
 ### License
 
