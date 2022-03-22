@@ -1,6 +1,6 @@
 # 168-simple-os-4-loogarch-arm64
 
-Loogarch/ARM64平台上的教学操作系统-arm-os
+Loogarch/ARM64平台上的教学操作系统
 
 ## 自研简单操作系统的构建与测试验证
 
