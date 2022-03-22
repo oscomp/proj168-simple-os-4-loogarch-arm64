@@ -29,6 +29,7 @@ Loogarch/ARM64平台上的教学操作系统
 	翟高寿
 
 * Email  [gszhai@bjtu.edu.cn](mailto:gszhai@bjtu.edu.cn)
+* githubid  gsZhongHuaXiaoZi
 
 ### 难度
 
